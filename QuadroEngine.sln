@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadroEngine", "QuadroEngine.csproj", "{F05C2881-F454-4ADE-A0D6-8228E8F7ADE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F05C2881-F454-4ADE-A0D6-8228E8F7ADE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F05C2881-F454-4ADE-A0D6-8228E8F7ADE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F05C2881-F454-4ADE-A0D6-8228E8F7ADE4}.Debug|x64.ActiveCfg = Debug|x64
+		{F05C2881-F454-4ADE-A0D6-8228E8F7ADE4}.Debug|x64.Build.0 = Debug|x64
+		{F05C2881-F454-4ADE-A0D6-8228E8F7ADE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F05C2881-F454-4ADE-A0D6-8228E8F7ADE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F05C2881-F454-4ADE-A0D6-8228E8F7ADE4}.Release|x64.ActiveCfg = Release|x64
+		{F05C2881-F454-4ADE-A0D6-8228E8F7ADE4}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91D3026E-3F1A-40A4-B34F-D32C4C49DFA0}
+	EndGlobalSection
+EndGlobal
